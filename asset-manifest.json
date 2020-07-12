@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wip-retail-demo/static/css/main.e7b3e96e.chunk.css",
+    "main.js": "/wip-retail-demo/static/js/main.47533a22.chunk.js",
+    "main.js.map": "/wip-retail-demo/static/js/main.47533a22.chunk.js.map",
+    "runtime-main.js": "/wip-retail-demo/static/js/runtime-main.9f3132ed.js",
+    "runtime-main.js.map": "/wip-retail-demo/static/js/runtime-main.9f3132ed.js.map",
+    "static/css/2.9826cacc.chunk.css": "/wip-retail-demo/static/css/2.9826cacc.chunk.css",
+    "static/js/2.6e14101d.chunk.js": "/wip-retail-demo/static/js/2.6e14101d.chunk.js",
+    "static/js/2.6e14101d.chunk.js.map": "/wip-retail-demo/static/js/2.6e14101d.chunk.js.map",
+    "index.html": "/wip-retail-demo/index.html",
+    "precache-manifest.626571381509e8507da7a3c77c5d27d9.js": "/wip-retail-demo/precache-manifest.626571381509e8507da7a3c77c5d27d9.js",
+    "service-worker.js": "/wip-retail-demo/service-worker.js",
+    "static/css/2.9826cacc.chunk.css.map": "/wip-retail-demo/static/css/2.9826cacc.chunk.css.map",
+    "static/css/main.e7b3e96e.chunk.css.map": "/wip-retail-demo/static/css/main.e7b3e96e.chunk.css.map",
+    "static/js/2.6e14101d.chunk.js.LICENSE.txt": "/wip-retail-demo/static/js/2.6e14101d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/wip-retail-demo/static/media/fa-solid-900.f3a7d3b5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f3132ed.js",
+    "static/css/2.9826cacc.chunk.css",
+    "static/js/2.6e14101d.chunk.js",
+    "static/css/main.e7b3e96e.chunk.css",
+    "static/js/main.47533a22.chunk.js"
+  ]
+}
