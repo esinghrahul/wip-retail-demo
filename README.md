@@ -1,3 +1,14 @@
+## Retail Demo App
+This app was created as part of a coding assignment for job interview.
+
+### `Upcoming`
+Plan is to continue adding to this app and eventually convert it to a full-stack app using GraphQL and MongoDB.
+However, things currently on priority are:
+1. Implement an edit functionality for inventory page to edit pre-existing products.
+2. Implement a reducer for cart similar to the one currently implemented for product.
+3. Some code cleanup and refactoring to improve code readability.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
