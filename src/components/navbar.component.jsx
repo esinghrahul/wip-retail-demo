@@ -22,7 +22,6 @@ const Navbar = () => {
                     <span className='mr-3'><i className="fas fa-cart-plus" /></span>Cart
                 </CartButton>
             </Link>
-            {/*<p>Choose from a collection of {products.length} products available with us</p>*/}
         </NavWrapper>
     )
 }

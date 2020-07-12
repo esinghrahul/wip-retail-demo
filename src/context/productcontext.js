@@ -14,35 +14,26 @@ const ProductContextProvider = (props) => {
             title: 'Store Item One',
             img: '',
             price: 12,
-            description: 'This is some demo text for item One',
-            inCart: false,
-            count: 0,
-            total: 0
+            description: 'This is some demo text for item One'
          },
          {
             id: 2,
             title: 'Store Item One',
             img: '',
             price: 12,
-            description: 'This is some demo text for item One',
-            inCart: false,
-            count: 0,
-            total: 0
+            description: 'This is some demo text for item One'
          },
          {
             id: 3,
             title: 'Store Item One',
             img: '',
             price: 12,
-            description: 'This is some demo text for item One',
-            inCart: false,
-            count: 0,
-            total: 0
+            description: 'This is some demo text for item One'
          }
     ])*/
     /*
     const addProduct = (title, img, price, description) => {
-        setProducts([...products, {title, img, price, description, id: uuid(), inCart: false, count: 0}])
+        setProducts([...products, {title, img, price, description, id: uuid()}])
     }
     const removeProduct = (id) => {
         setProducts(products.filter(product=> product.id !== id))

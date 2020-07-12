@@ -8,9 +8,7 @@ export const ProductReducer = (state, action) => {
                 title: action.product.title,
                 description: action.product.description,
                 img: action.product.img,
-                price: action.product.price,
-                inCart: false,
-                count: 0
+                price: action.product.price
             }]
         case 'REMOVE_PRODUCT':
             return state.filter(product => product.id !== action.id)
