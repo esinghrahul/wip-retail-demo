@@ -1,11 +1,13 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect } from "react";
 import { CartContext } from "../context/cartcontext";
 import { CartButton } from "./button.component";
+import { ProductContext } from "../context/productcontext";
 
 const CartItem = ({ cartItem }) => {
   const { title, img, price, quantity } = cartItem;
   const { addItem, removeItem, clearItemFromCart } = useContext(CartContext);
-
+  const {products} = useContext(ProductContext)
+  
   return (
     <div className="card mb-3 border-0 py-2 px-2">
       <div className="row no-gutters">
